@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:22d51bafb414b04d6592b517f5728583:1cdd5f301d770ba33ac6ef662bcc9ee6:cde709370900f12288f3449eded86f07$ -->
+<TextureAtlas imagePath="atlas.png" width="958" height="252">
+    <SubTexture name="flag" x="438" y="164" width="44" height="84"/>
+    <SubTexture name="game_over_click" x="0" y="100" width="200" height="50"/>
+    <SubTexture name="game_over_hover" x="400" y="50" width="200" height="50"/>
+    <SubTexture name="game_over_normal" x="200" y="50" width="200" height="50"/>
+    <SubTexture name="instructions_click" x="600" y="100" width="200" height="50"/>
+    <SubTexture name="instructions_hover" x="400" y="100" width="200" height="50"/>
+    <SubTexture name="instructions_normal" x="200" y="100" width="200" height="50"/>
+    <SubTexture name="jump" x="0" y="0" width="90" height="11"/>
+    <SubTexture name="logo" x="562" y="164" width="396" height="88"/>
+    <SubTexture name="menu_click" x="150" y="0" width="200" height="50"/>
+    <SubTexture name="menu_hover" x="600" y="50" width="200" height="50"/>
+    <SubTexture name="menu_normal" x="350" y="0" width="200" height="50"/>
+    <SubTexture name="monster_arms_down" x="358" y="164" width="80" height="83"/>
+    <SubTexture name="monster_arms_up" x="482" y="164" width="80" height="84"/>
+    <SubTexture name="play_click" x="550" y="0" width="200" height="50"/>
+    <SubTexture name="play_hover" x="750" y="0" width="200" height="50"/>
+    <SubTexture name="play_normal" x="0" y="50" width="200" height="50"/>
+    <SubTexture name="rock" x="90" y="0" width="60" height="46"/>
+    <SubTexture name="skiierDown" x="0" y="164" width="60" height="66"/>
+    <SubTexture name="smallLeft_skiier" x="60" y="164" width="60" height="66"/>
+    <SubTexture name="SmallRight_skiier" x="120" y="164" width="60" height="66"/>
+    <SubTexture name="bigRight_skiier" x="240" y="164" width="60" height="66"/>
+    <SubTexture name="bigLeft_skiier" x="180" y="164" width="60" height="66"/>
+    <SubTexture name="slow_snow" x="800" y="100" width="118" height="64"/>
+    <SubTexture name="three" x="300" y="164" width="58" height="71"/>
+</TextureAtlas>
